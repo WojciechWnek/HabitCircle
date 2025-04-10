@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=habitcircle
+POSTGRES_USER=HPFyAGtIXaJucWNaalcWDTeVwpLVLjoI
+POSTGRES_PASSWORD=Rj2NRcsaZCuDjUmMLf2KO8leSecJUj4p6RNk3oxopIoBrtbCy2fDRMTHLq2E4qgk
